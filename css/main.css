@@ -1,0 +1,66 @@
+.col-sm-12{
+    text-align: center !important;
+}
+.imagen {
+   
+    width: 400px !important;
+    height: 200px !important;
+}
+
+ .carousel-item .active{
+    width: 100px !important;
+    height: 100px !important;
+
+ }
+.card-img-top {
+    width: 430px !important;
+    height: 300px !important;
+}
+.card {
+background-color:black !important;
+}
+.card-text{
+    color: white !important;
+}
+.card-title {
+    text-decoration: underline;
+    color: white !important;
+}
+.btn-outline-dark{
+    text-decoration: underline;
+    color: whitesmoke!important;
+}
+ .body.fondo {
+    color: black !important;
+ }
+ .pagina-nasa {
+    text-decoration: underline;
+ }
+ .p-4{
+    background-color: black;
+
+ }
+ .text-bg-dark {
+    background-color: black !important;
+ }
+.pagina-nasa{
+    background-color: black;
+
+}
+.img-fluid:hover{
+    transform: scale(0.9) !important;
+}
+.nav-item:hover{
+    transform: scale(1.2) !important;
+
+}
+.nav-link{
+    color: black !important;
+    border-color: black !important;
+    text-decoration: underline !important;
+  
+}
+   
+
+
+
